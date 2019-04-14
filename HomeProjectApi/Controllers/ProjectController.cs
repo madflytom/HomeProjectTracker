@@ -62,7 +62,7 @@ namespace HomeProjectApi.Controllers
 
             return NoContent();
         }
-        // DELETE: api/Todo/5
+        // DELETE: api/Project/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteProject(Guid id)
         {
