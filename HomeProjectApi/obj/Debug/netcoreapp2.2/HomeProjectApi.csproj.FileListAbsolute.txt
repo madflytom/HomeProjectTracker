@@ -1,0 +1,14 @@
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\obj\Debug\netcoreapp2.2\HomeProjectApi.csprojAssemblyReference.cache
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\obj\Debug\netcoreapp2.2\HomeProjectApi.csproj.CoreCompileInputs.cache
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\obj\Debug\netcoreapp2.2\HomeProjectApi.RazorAssemblyInfo.cache
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\obj\Debug\netcoreapp2.2\HomeProjectApi.RazorAssemblyInfo.cs
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\obj\Debug\netcoreapp2.2\HomeProjectApi.AssemblyInfoInputs.cache
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\obj\Debug\netcoreapp2.2\HomeProjectApi.AssemblyInfo.cs
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\bin\Debug\netcoreapp2.2\HomeProjectApi.deps.json
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\bin\Debug\netcoreapp2.2\HomeProjectApi.runtimeconfig.json
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\bin\Debug\netcoreapp2.2\HomeProjectApi.runtimeconfig.dev.json
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\bin\Debug\netcoreapp2.2\HomeProjectApi.dll
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\bin\Debug\netcoreapp2.2\HomeProjectApi.pdb
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\obj\Debug\netcoreapp2.2\HomeProjectApi.RazorTargetAssemblyInfo.cache
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\obj\Debug\netcoreapp2.2\HomeProjectApi.dll
+C:\Users\madfl\source\HomeProjectTracker\HomeProjectApi\obj\Debug\netcoreapp2.2\HomeProjectApi.pdb
