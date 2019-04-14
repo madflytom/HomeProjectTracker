@@ -16,11 +16,11 @@ namespace HomeProjectApi.Models
 
         //TODO: Set up repository to handle calculation of these things
         [NotMapped]
-        public double ActualTotalCost { get; set; }
+        public decimal ActualTotalCost { get; set; }
         [NotMapped]
         public DateTime ActualEndDate { get; set; }
         [NotMapped]
-        public double EstimatedTotalCost { get; set; }
+        public decimal EstimatedTotalCost { get; set; }
         [NotMapped]
         public DateTime EstimatedEndDate { get; set; }
 

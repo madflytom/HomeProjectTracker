@@ -14,15 +14,11 @@ namespace HomeProjectApi.Models
         public DateTime EstimatedStartDate { get; set; }
         public int EstimatedDuration { get; set; }
 
-        //TODO: Set up repository to handle calculation of these things
-        [NotMapped]
-        public double ActualCost { get; set; }
-        [NotMapped]
+        public decimal ActualCost { get; set; }
         public DateTime ActualEndDate { get; set; }
-        [NotMapped]
-        public double EstimatedCost { get; set; }
-        [NotMapped]
+        public decimal EstimatedCost { get; set; }
         public DateTime EstimatedEndDate { get; set; }
+        public bool IsComplete { get; set; }
 
     }
 }

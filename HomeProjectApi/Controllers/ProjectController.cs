@@ -37,6 +37,15 @@ namespace HomeProjectApi.Controllers
                 return NotFound();
             }
 
+            //TODO: Get total and estimated costs based on ProjectItems associated with the project
+            var projectItems = _context.ProjectItems.Where(projectItem => projectItem.ProjectId == id).ToList();
+            project.ActualTotalCost = projectItems.Sum(item => item.ActualCost);
+            project.EstimatedTotalCost = projectItems.Sum(item => item.EstimatedCost);
+            project.ActualDuration = projectItems.Max(item => item.ActualDuration);
+            project.EstimatedDuration = projectItems.Max(item => item.EstimatedDuration);
+            project.ActualEndDate = projectItems.Max(item => item.ActualEndDate);
+            project.EstimatedEndDate = projectItems.Max(item => item.EstimatedEndDate);
+
             return project;
         }
         // POST: api/Project
